@@ -1,0 +1,29 @@
+{
+  "base_currency": "TRY",
+  "holdings": [
+    {
+      "symbol": "SASA.IS",
+      "quantity": 120,
+      "cost_basis": 33.45,
+      "currency": "TRY"
+    },
+    {
+      "symbol": "THYAO.IS",
+      "quantity": 85,
+      "cost_basis": 78.1,
+      "currency": "TRY"
+    },
+    {
+      "symbol": "TSLA",
+      "quantity": 4,
+      "cost_basis": 180.0,
+      "currency": "USD"
+    },
+    {
+      "symbol": "GLD",
+      "quantity": 10,
+      "cost_basis": 175.25,
+      "currency": "USD"
+    }
+  ]
+}
